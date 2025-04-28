@@ -1,0 +1,44 @@
+server:
+  http_listen_port: 9080
+  grpc_listen_port: 0
+
+positions:
+  filename: /tmp/positions.yaml
+
+clients:
+  - url: http://loki:3100/loki/api/v1/push
+    batchwait: 1s
+    batchsize: 1048576  # 1MB
+    backoff_config:
+      min_period: 100ms
+      max_period: 5s
+      max_retries: 5
+
+scrape_configs:
+  - job_name: system
+    pipeline_stages:
+      - drop:
+          expression: ".*DEBUG.*"  # Drop DEBUG level logs
+          source: message
+    static_configs:
+      - targets:
+          - localhost
+        labels:
+          job: varlogs
+          __path__: /var/log/{Nudge,alf,install,jamf}.log
+          
+  - job_name: containers
+    static_configs:
+      - targets:
+          - localhost
+        labels:
+          job: containerlogs
+          __path__: /var/lib/docker/containers/*/*log
+
+  - job_name: python_app
+    static_configs:
+      - targets:
+          - localhost
+        labels:
+          job: grafana-lgtm-test
+          __path__: /tmp/app_logs/*.log

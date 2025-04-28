@@ -1,0 +1,50 @@
+receivers:
+  otlp:
+    protocols:
+      grpc:
+        endpoint: 0.0.0.0:5555
+
+processors:
+  batch:
+    timeout: 1s
+    send_batch_size: 1024
+  resource:
+    attributes:
+      - key: service.name
+        value: "grafana-lgtm-test"
+        action: upsert
+
+exporters:
+  loki:
+    endpoint: http://loki:3100/loki/api/v1/push
+    
+  otlp/tempo:
+    endpoint: tempo:4317
+    tls:
+      insecure: true
+      
+  prometheus:
+    endpoint: otel-collector:8889
+    namespace: otel_demo
+    
+  prometheusremotewrite:
+    endpoint: http://mimir:9009/api/v1/push
+    tls:
+      insecure: true
+
+service:
+  pipelines:
+    traces:
+      receivers: [otlp]
+      processors: [batch, resource]
+      exporters: [otlp/tempo]
+    
+    metrics:
+      receivers: [otlp]
+      processors: [batch, resource]
+      exporters: [prometheusremotewrite, prometheus]
+    
+    logs:
+      receivers: [otlp]
+      processors: [batch, resource]
+      exporters: [loki]

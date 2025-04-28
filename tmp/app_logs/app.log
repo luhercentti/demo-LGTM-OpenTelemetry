@@ -1,0 +1,495 @@
+2025-04-24 14:00:43,939 - grafana-lgtm-test - WARNING - High memory usage detected: 171.07 MB
+2025-04-24 14:00:43,939 - grafana-lgtm-test - INFO - Starting Grafana LGTM test application
+2025-04-24 14:00:43,992 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.18.242:8080
+2025-04-24 14:00:43,992 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-24 14:00:43,993 - werkzeug - INFO -  * Restarting with stat
+2025-04-24 14:00:44,723 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 61.64 MB
+2025-04-24 14:00:44,723 - grafana-lgtm-test - INFO - Starting Grafana LGTM test application
+2025-04-24 14:00:44,771 - werkzeug - WARNING -  * Debugger is active!
+2025-04-24 14:00:44,782 - werkzeug - INFO -  * Debugger PIN: 870-698-672
+2025-04-24 14:00:45,954 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 74.08 MB
+2025-04-24 14:00:46,735 - grafana-lgtm-test - ERROR - System resource critical! Memory: 162.89 MB
+2025-04-24 14:00:47,956 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 156.86 MB
+2025-04-24 14:00:48,740 - grafana-lgtm-test - WARNING - High memory usage detected: 111.31 MB
+2025-04-24 14:00:48,964 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 14:00:49,740 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 14:00:49,962 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 134.58 MB
+2025-04-24 14:00:50,746 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 83.05 MB
+2025-04-24 14:00:51,964 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 179.07 MB
+2025-04-24 14:00:52,751 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 187.43 MB
+2025-04-24 14:00:53,966 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 142.09 MB
+2025-04-24 14:00:53,976 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 14:00:54,749 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 14:00:54,755 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 172.22 MB
+2025-04-24 14:00:55,972 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 89.82 MB
+2025-04-24 14:00:56,761 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 81.15 MB
+2025-04-24 14:00:57,974 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 165.28 MB
+2025-04-24 14:00:58,766 - grafana-lgtm-test - WARNING - High memory usage detected: 176.12 MB
+2025-04-24 14:00:58,983 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 14:00:59,756 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 14:00:59,980 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 62.10 MB
+2025-04-24 14:01:00,769 - grafana-lgtm-test - ERROR - System resource critical! Memory: 198.50 MB
+2025-04-24 14:01:01,984 - grafana-lgtm-test - WARNING - High memory usage detected: 87.78 MB
+2025-04-24 14:01:02,041 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 14:01:02,110 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 14:04:17,500 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 103.45 MB
+2025-04-24 14:04:17,500 - grafana-lgtm-test - INFO - Starting Grafana LGTM test application
+2025-04-24 14:04:17,559 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.18.242:8080
+2025-04-24 14:04:17,559 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-24 14:04:17,560 - werkzeug - INFO -  * Restarting with stat
+2025-04-24 14:04:18,169 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 179.88 MB
+2025-04-24 14:04:18,169 - grafana-lgtm-test - INFO - Starting Grafana LGTM test application
+2025-04-24 14:04:18,219 - werkzeug - WARNING -  * Debugger is active!
+2025-04-24 14:04:18,234 - werkzeug - INFO -  * Debugger PIN: 870-698-672
+2025-04-24 14:04:19,519 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 81.91 MB
+2025-04-24 14:04:20,189 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 107.15 MB
+2025-04-24 14:04:21,525 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 100.26 MB
+2025-04-24 14:04:22,194 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 198.80 MB
+2025-04-24 14:04:22,527 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 14:04:23,189 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 14:04:23,530 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 97.77 MB
+2025-04-24 14:04:24,199 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 157.80 MB
+2025-04-24 14:04:25,532 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 164.34 MB
+2025-04-24 14:04:26,204 - grafana-lgtm-test - ERROR - System resource critical! Memory: 61.54 MB
+2025-04-24 14:04:27,535 - grafana-lgtm-test - WARNING - High memory usage detected: 126.78 MB
+2025-04-24 14:04:27,537 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 14:04:28,196 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 14:04:28,207 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 87.40 MB
+2025-04-24 14:04:29,540 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 74.12 MB
+2025-04-24 14:04:30,210 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 131.63 MB
+2025-04-24 14:04:31,541 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 62.09 MB
+2025-04-24 14:04:32,215 - grafana-lgtm-test - WARNING - High memory usage detected: 158.71 MB
+2025-04-24 14:04:32,540 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 14:04:33,201 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 14:04:33,542 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 178.81 MB
+2025-04-24 14:04:34,219 - grafana-lgtm-test - ERROR - System resource critical! Memory: 194.30 MB
+2025-04-24 14:04:35,546 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 180.65 MB
+2025-04-24 14:04:36,224 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 80.83 MB
+2025-04-24 14:04:37,545 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 14:04:37,549 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 183.15 MB
+2025-04-24 14:04:38,211 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 14:04:38,228 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 174.95 MB
+2025-04-24 14:04:39,554 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 156.76 MB
+2025-04-24 14:04:40,233 - grafana-lgtm-test - ERROR - System resource critical! Memory: 184.59 MB
+2025-04-24 14:04:41,559 - grafana-lgtm-test - WARNING - High memory usage detected: 172.81 MB
+2025-04-24 14:04:42,239 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 90.37 MB
+2025-04-24 14:04:42,548 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 14:04:43,221 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 14:04:43,564 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 117.48 MB
+2025-04-24 14:04:44,241 - grafana-lgtm-test - ERROR - System resource critical! Memory: 177.25 MB
+2025-04-24 14:04:45,567 - grafana-lgtm-test - WARNING - High memory usage detected: 84.96 MB
+2025-04-24 14:04:46,247 - grafana-lgtm-test - WARNING - High memory usage detected: 82.88 MB
+2025-04-24 14:04:47,555 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 14:04:47,570 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 80.50 MB
+2025-04-24 14:04:48,228 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 14:04:48,253 - grafana-lgtm-test - ERROR - System resource critical! Memory: 189.44 MB
+2025-04-24 14:04:49,574 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 188.68 MB
+2025-04-24 14:04:50,258 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 73.84 MB
+2025-04-24 14:04:51,575 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 123.10 MB
+2025-04-24 14:04:52,263 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 53.48 MB
+2025-04-24 14:04:52,564 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 14:04:53,237 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 14:04:53,580 - grafana-lgtm-test - WARNING - High memory usage detected: 56.92 MB
+2025-04-24 14:04:54,269 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 128.60 MB
+2025-04-24 14:04:55,581 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 129.97 MB
+2025-04-24 14:04:56,274 - grafana-lgtm-test - WARNING - High memory usage detected: 151.53 MB
+2025-04-24 14:04:57,573 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 14:04:57,586 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 122.20 MB
+2025-04-24 14:04:58,244 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 14:04:58,280 - grafana-lgtm-test - ERROR - System resource critical! Memory: 132.52 MB
+2025-04-24 14:04:59,591 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 115.02 MB
+2025-04-24 14:05:00,285 - grafana-lgtm-test - WARNING - High memory usage detected: 146.48 MB
+2025-04-24 14:05:01,594 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 124.41 MB
+2025-04-24 14:05:02,291 - grafana-lgtm-test - WARNING - High memory usage detected: 125.81 MB
+2025-04-24 14:05:02,579 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 14:05:03,254 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 14:05:03,600 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 172.43 MB
+2025-04-24 14:05:04,297 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 94.24 MB
+2025-04-24 14:05:05,603 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 179.75 MB
+2025-04-24 14:05:06,300 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 57.32 MB
+2025-04-24 14:05:07,586 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 14:05:07,608 - grafana-lgtm-test - WARNING - High memory usage detected: 93.31 MB
+2025-04-24 14:05:08,263 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 14:05:08,305 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 159.45 MB
+2025-04-24 14:05:09,610 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 184.76 MB
+2025-04-24 14:05:10,310 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 97.77 MB
+2025-04-24 14:05:11,615 - grafana-lgtm-test - WARNING - High memory usage detected: 71.78 MB
+2025-04-24 14:05:12,316 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 107.64 MB
+2025-04-24 14:05:12,589 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 14:05:13,267 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 14:05:13,621 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 191.97 MB
+2025-04-24 14:05:14,319 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 98.83 MB
+2025-04-24 14:05:15,625 - grafana-lgtm-test - WARNING - High memory usage detected: 145.27 MB
+2025-04-24 14:05:15,626 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 14:05:15,696 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 16:12:09,971 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 163.42 MB
+2025-04-24 16:12:09,971 - grafana-lgtm-test - INFO - Starting Grafana LGTM test application
+2025-04-24 16:12:10,116 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.18.242:8080
+2025-04-24 16:12:10,116 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-24 16:12:10,121 - werkzeug - INFO -  * Restarting with stat
+2025-04-24 16:12:10,798 - grafana-lgtm-test - WARNING - High memory usage detected: 179.09 MB
+2025-04-24 16:12:10,798 - grafana-lgtm-test - INFO - Starting Grafana LGTM test application
+2025-04-24 16:12:10,837 - werkzeug - WARNING -  * Debugger is active!
+2025-04-24 16:12:10,866 - werkzeug - INFO -  * Debugger PIN: 870-698-672
+2025-04-24 16:12:11,994 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 133.73 MB
+2025-04-24 16:12:12,307 - grafana-lgtm-test - INFO - Home endpoint accessed
+2025-04-24 16:12:12,340 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:12] "GET / HTTP/1.1" 200 -
+2025-04-24 16:12:12,814 - grafana-lgtm-test - WARNING - High memory usage detected: 91.69 MB
+2025-04-24 16:12:12,898 - grafana-lgtm-test - INFO - Home endpoint accessed
+2025-04-24 16:12:12,945 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:12] "GET / HTTP/1.1" 200 -
+2025-04-24 16:12:13,510 - grafana-lgtm-test - INFO - Home endpoint accessed
+2025-04-24 16:12:13,560 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:13] "GET / HTTP/1.1" 200 -
+2025-04-24 16:12:13,999 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 143.83 MB
+2025-04-24 16:12:14,115 - grafana-lgtm-test - INFO - Home endpoint accessed
+2025-04-24 16:12:14,169 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:14] "GET / HTTP/1.1" 200 -
+2025-04-24 16:12:14,722 - grafana-lgtm-test - INFO - Home endpoint accessed
+2025-04-24 16:12:14,776 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:14] "GET / HTTP/1.1" 200 -
+2025-04-24 16:12:14,819 - grafana-lgtm-test - WARNING - High memory usage detected: 72.54 MB
+2025-04-24 16:12:15,007 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 16:12:15,333 - grafana-lgtm-test - INFO - Home endpoint accessed
+2025-04-24 16:12:15,379 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:15] "GET / HTTP/1.1" 200 -
+2025-04-24 16:12:15,819 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 16:12:15,929 - grafana-lgtm-test - INFO - Home endpoint accessed
+2025-04-24 16:12:15,952 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:15] "GET / HTTP/1.1" 200 -
+2025-04-24 16:12:16,003 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 93.75 MB
+2025-04-24 16:12:16,520 - grafana-lgtm-test - INFO - Home endpoint accessed
+2025-04-24 16:12:16,563 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:16] "GET / HTTP/1.1" 200 -
+2025-04-24 16:12:16,822 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 177.28 MB
+2025-04-24 16:12:17,116 - grafana-lgtm-test - INFO - Home endpoint accessed
+2025-04-24 16:12:17,145 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:17] "GET / HTTP/1.1" 200 -
+2025-04-24 16:12:17,703 - grafana-lgtm-test - INFO - Home endpoint accessed
+2025-04-24 16:12:17,745 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:17] "GET / HTTP/1.1" 200 -
+2025-04-24 16:12:18,005 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 172.10 MB
+2025-04-24 16:12:18,301 - grafana-lgtm-test - INFO - Home endpoint accessed
+2025-04-24 16:12:18,340 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:18] "GET / HTTP/1.1" 200 -
+2025-04-24 16:12:18,827 - grafana-lgtm-test - WARNING - High memory usage detected: 180.40 MB
+2025-04-24 16:12:18,898 - grafana-lgtm-test - INFO - Home endpoint accessed
+2025-04-24 16:12:18,923 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:18] "GET / HTTP/1.1" 200 -
+2025-04-24 16:12:19,480 - grafana-lgtm-test - INFO - Home endpoint accessed
+2025-04-24 16:12:19,513 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:19] "GET / HTTP/1.1" 200 -
+2025-04-24 16:12:20,010 - grafana-lgtm-test - WARNING - High memory usage detected: 94.76 MB
+2025-04-24 16:12:20,015 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 16:12:20,066 - grafana-lgtm-test - INFO - Home endpoint accessed
+2025-04-24 16:12:20,085 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:20] "GET / HTTP/1.1" 200 -
+2025-04-24 16:12:20,646 - grafana-lgtm-test - INFO - Home endpoint accessed
+2025-04-24 16:12:20,689 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:20] "GET / HTTP/1.1" 200 -
+2025-04-24 16:12:20,829 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 63.24 MB
+2025-04-24 16:12:20,839 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 16:12:21,258 - grafana-lgtm-test - INFO - Home endpoint accessed
+2025-04-24 16:12:21,295 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:21] "GET / HTTP/1.1" 200 -
+2025-04-24 16:12:21,851 - grafana-lgtm-test - INFO - Home endpoint accessed
+2025-04-24 16:12:21,872 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:21] "GET / HTTP/1.1" 200 -
+2025-04-24 16:12:22,015 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 177.69 MB
+2025-04-24 16:12:22,435 - grafana-lgtm-test - INFO - Home endpoint accessed
+2025-04-24 16:12:22,468 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:22] "GET / HTTP/1.1" 200 -
+2025-04-24 16:12:22,835 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 113.62 MB
+2025-04-24 16:12:23,030 - grafana-lgtm-test - INFO - Home endpoint accessed
+2025-04-24 16:12:23,050 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:23] "GET / HTTP/1.1" 200 -
+2025-04-24 16:12:23,620 - grafana-lgtm-test - INFO - Home endpoint accessed
+2025-04-24 16:12:23,638 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:23] "GET / HTTP/1.1" 200 -
+2025-04-24 16:12:24,021 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 105.70 MB
+2025-04-24 16:12:24,189 - grafana-lgtm-test - INFO - Home endpoint accessed
+2025-04-24 16:12:24,204 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:24] "GET / HTTP/1.1" 200 -
+2025-04-24 16:12:24,794 - grafana-lgtm-test - INFO - Home endpoint accessed
+2025-04-24 16:12:24,838 - grafana-lgtm-test - ERROR - System resource critical! Memory: 103.74 MB
+2025-04-24 16:12:24,849 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:24] "GET / HTTP/1.1" 200 -
+2025-04-24 16:12:25,020 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 16:12:25,405 - grafana-lgtm-test - INFO - Home endpoint accessed
+2025-04-24 16:12:25,446 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:25] "GET / HTTP/1.1" 200 -
+2025-04-24 16:12:25,842 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 16:12:26,002 - grafana-lgtm-test - INFO - Home endpoint accessed
+2025-04-24 16:12:26,026 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 183.76 MB
+2025-04-24 16:12:26,037 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:26] "GET / HTTP/1.1" 200 -
+2025-04-24 16:12:26,593 - grafana-lgtm-test - INFO - Home endpoint accessed
+2025-04-24 16:12:26,642 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:26] "GET / HTTP/1.1" 200 -
+2025-04-24 16:12:26,840 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 125.86 MB
+2025-04-24 16:12:27,194 - grafana-lgtm-test - INFO - Home endpoint accessed
+2025-04-24 16:12:27,223 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:27] "GET / HTTP/1.1" 200 -
+2025-04-24 16:12:27,781 - grafana-lgtm-test - INFO - Home endpoint accessed
+2025-04-24 16:12:27,827 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:27] "GET / HTTP/1.1" 200 -
+2025-04-24 16:12:28,031 - grafana-lgtm-test - WARNING - High memory usage detected: 193.79 MB
+2025-04-24 16:12:28,389 - grafana-lgtm-test - INFO - Home endpoint accessed
+2025-04-24 16:12:28,402 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:28] "GET / HTTP/1.1" 200 -
+2025-04-24 16:12:28,843 - grafana-lgtm-test - WARNING - High memory usage detected: 149.50 MB
+2025-04-24 16:12:28,960 - grafana-lgtm-test - INFO - Home endpoint accessed
+2025-04-24 16:12:28,986 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:28] "GET / HTTP/1.1" 200 -
+2025-04-24 16:12:29,548 - grafana-lgtm-test - INFO - Home endpoint accessed
+2025-04-24 16:12:29,565 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:29] "GET / HTTP/1.1" 200 -
+2025-04-24 16:12:30,025 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 16:12:30,036 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 131.20 MB
+2025-04-24 16:12:30,238 - grafana-lgtm-test - ERROR - Database timeout while fetching users
+2025-04-24 16:12:30,238 - grafana-lgtm-test - INFO - Users API call completed in 0.1207 seconds
+2025-04-24 16:12:30,239 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:30] "GET /api/users HTTP/1.1" 200 -
+2025-04-24 16:12:30,844 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 80.04 MB
+2025-04-24 16:12:30,851 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 16:12:30,879 - grafana-lgtm-test - INFO - Users API call completed in 0.0730 seconds
+2025-04-24 16:12:30,880 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:30] "GET /api/users HTTP/1.1" 200 -
+2025-04-24 16:12:31,526 - grafana-lgtm-test - ERROR - Database timeout while fetching users
+2025-04-24 16:12:31,528 - grafana-lgtm-test - INFO - Users API call completed in 0.1012 seconds
+2025-04-24 16:12:31,528 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:31] "GET /api/users HTTP/1.1" 200 -
+2025-04-24 16:12:32,041 - grafana-lgtm-test - WARNING - High memory usage detected: 122.48 MB
+2025-04-24 16:12:32,270 - grafana-lgtm-test - INFO - Users API call completed in 0.1779 seconds
+2025-04-24 16:12:32,271 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:32] "GET /api/users HTTP/1.1" 200 -
+2025-04-24 16:12:32,849 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 110.34 MB
+2025-04-24 16:12:32,932 - grafana-lgtm-test - ERROR - Database timeout while fetching users
+2025-04-24 16:12:32,933 - grafana-lgtm-test - INFO - Users API call completed in 0.1108 seconds
+2025-04-24 16:12:32,933 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:32] "GET /api/users HTTP/1.1" 200 -
+2025-04-24 16:12:33,591 - grafana-lgtm-test - INFO - Users API call completed in 0.1036 seconds
+2025-04-24 16:12:33,591 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:33] "GET /api/users HTTP/1.1" 200 -
+2025-04-24 16:12:34,047 - grafana-lgtm-test - WARNING - High memory usage detected: 51.07 MB
+2025-04-24 16:12:34,291 - grafana-lgtm-test - INFO - Users API call completed in 0.1483 seconds
+2025-04-24 16:12:34,292 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:34] "GET /api/users HTTP/1.1" 200 -
+2025-04-24 16:12:34,854 - grafana-lgtm-test - WARNING - High memory usage detected: 170.08 MB
+2025-04-24 16:12:35,010 - grafana-lgtm-test - INFO - Users API call completed in 0.1529 seconds
+2025-04-24 16:12:35,011 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:35] "GET /api/users HTTP/1.1" 200 -
+2025-04-24 16:12:35,033 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 16:12:35,689 - grafana-lgtm-test - INFO - Users API call completed in 0.1213 seconds
+2025-04-24 16:12:35,690 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:35] "GET /api/users HTTP/1.1" 200 -
+2025-04-24 16:12:35,862 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 16:12:36,052 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 55.09 MB
+2025-04-24 16:12:36,393 - grafana-lgtm-test - ERROR - Database timeout while fetching users
+2025-04-24 16:12:36,394 - grafana-lgtm-test - INFO - Users API call completed in 0.1512 seconds
+2025-04-24 16:12:36,395 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:36] "GET /api/users HTTP/1.1" 200 -
+2025-04-24 16:12:36,859 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 109.68 MB
+2025-04-24 16:12:37,099 - grafana-lgtm-test - INFO - Users API call completed in 0.1531 seconds
+2025-04-24 16:12:37,100 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:37] "GET /api/users HTTP/1.1" 200 -
+2025-04-24 16:12:37,833 - grafana-lgtm-test - INFO - Users API call completed in 0.1664 seconds
+2025-04-24 16:12:37,834 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:37] "GET /api/users HTTP/1.1" 200 -
+2025-04-24 16:12:38,058 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 146.39 MB
+2025-04-24 16:12:38,480 - grafana-lgtm-test - INFO - Users API call completed in 0.0919 seconds
+2025-04-24 16:12:38,481 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:38] "GET /api/users HTTP/1.1" 200 -
+2025-04-24 16:12:38,861 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 93.51 MB
+2025-04-24 16:12:39,162 - grafana-lgtm-test - INFO - Users API call completed in 0.1195 seconds
+2025-04-24 16:12:39,163 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:39] "GET /api/users HTTP/1.1" 200 -
+2025-04-24 16:12:39,834 - grafana-lgtm-test - INFO - Users API call completed in 0.1258 seconds
+2025-04-24 16:12:39,835 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:39] "GET /api/users HTTP/1.1" 200 -
+2025-04-24 16:12:40,040 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 16:12:40,066 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 164.93 MB
+2025-04-24 16:12:40,507 - grafana-lgtm-test - INFO - Users API call completed in 0.1115 seconds
+2025-04-24 16:12:40,508 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:40] "GET /api/users HTTP/1.1" 200 -
+2025-04-24 16:12:40,867 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 130.28 MB
+2025-04-24 16:12:40,869 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 16:12:41,187 - grafana-lgtm-test - INFO - Users API call completed in 0.1095 seconds
+2025-04-24 16:12:41,188 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:41] "GET /api/users HTTP/1.1" 200 -
+2025-04-24 16:12:41,877 - grafana-lgtm-test - INFO - Users API call completed in 0.1408 seconds
+2025-04-24 16:12:41,877 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:41] "GET /api/users HTTP/1.1" 200 -
+2025-04-24 16:12:42,072 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 148.45 MB
+2025-04-24 16:12:42,536 - grafana-lgtm-test - INFO - Users API call completed in 0.1100 seconds
+2025-04-24 16:12:42,536 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:42] "GET /api/users HTTP/1.1" 200 -
+2025-04-24 16:12:42,871 - grafana-lgtm-test - WARNING - High memory usage detected: 172.06 MB
+2025-04-24 16:12:43,284 - grafana-lgtm-test - INFO - Users API call completed in 0.1959 seconds
+2025-04-24 16:12:43,285 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:43] "GET /api/users HTTP/1.1" 200 -
+2025-04-24 16:12:44,077 - grafana-lgtm-test - ERROR - System resource critical! Memory: 89.64 MB
+2025-04-24 16:12:44,572 - grafana-lgtm-test - WARNING - Slow items API call: 0.7318 seconds
+2025-04-24 16:12:44,576 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:44] "GET /api/items HTTP/1.1" 200 -
+2025-04-24 16:12:44,876 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 134.80 MB
+2025-04-24 16:12:45,046 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 16:12:45,516 - grafana-lgtm-test - WARNING - Slow items API call: 0.3759 seconds
+2025-04-24 16:12:45,520 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:45] "GET /api/items HTTP/1.1" 200 -
+2025-04-24 16:12:45,874 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 16:12:46,082 - grafana-lgtm-test - WARNING - High memory usage detected: 150.59 MB
+2025-04-24 16:12:46,427 - grafana-lgtm-test - WARNING - Slow items API call: 0.3570 seconds
+2025-04-24 16:12:46,430 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:46] "GET /api/items HTTP/1.1" 200 -
+2025-04-24 16:12:46,877 - grafana-lgtm-test - WARNING - High memory usage detected: 186.86 MB
+2025-04-24 16:12:47,438 - grafana-lgtm-test - WARNING - Slow items API call: 0.4457 seconds
+2025-04-24 16:12:47,442 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:47] "GET /api/items HTTP/1.1" 200 -
+2025-04-24 16:12:48,088 - grafana-lgtm-test - ERROR - System resource critical! Memory: 137.66 MB
+2025-04-24 16:12:48,322 - grafana-lgtm-test - WARNING - Slow items API call: 0.3335 seconds
+2025-04-24 16:12:48,326 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:48] "GET /api/items HTTP/1.1" 200 -
+2025-04-24 16:12:48,881 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 64.15 MB
+2025-04-24 16:12:49,435 - grafana-lgtm-test - WARNING - Slow items API call: 0.5440 seconds
+2025-04-24 16:12:49,441 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:49] "GET /api/items HTTP/1.1" 200 -
+2025-04-24 16:12:50,054 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 16:12:50,092 - grafana-lgtm-test - ERROR - System resource critical! Memory: 178.76 MB
+2025-04-24 16:12:50,742 - grafana-lgtm-test - WARNING - Slow items API call: 0.7469 seconds
+2025-04-24 16:12:50,746 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:50] "GET /api/items HTTP/1.1" 200 -
+2025-04-24 16:12:50,882 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 16:12:50,883 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 102.21 MB
+2025-04-24 16:12:51,654 - grafana-lgtm-test - WARNING - Slow items API call: 0.3383 seconds
+2025-04-24 16:12:51,679 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:51] "GET /api/items HTTP/1.1" 200 -
+2025-04-24 16:12:52,098 - grafana-lgtm-test - WARNING - High memory usage detected: 183.50 MB
+2025-04-24 16:12:52,704 - grafana-lgtm-test - WARNING - Slow items API call: 0.4456 seconds
+2025-04-24 16:12:52,708 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:52] "GET /api/items HTTP/1.1" 200 -
+2025-04-24 16:12:52,888 - grafana-lgtm-test - WARNING - High memory usage detected: 135.69 MB
+2025-04-24 16:12:53,890 - grafana-lgtm-test - WARNING - Slow items API call: 0.6217 seconds
+2025-04-24 16:12:53,893 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:53] "GET /api/items HTTP/1.1" 200 -
+2025-04-24 16:12:54,105 - grafana-lgtm-test - WARNING - High memory usage detected: 150.22 MB
+2025-04-24 16:12:54,894 - grafana-lgtm-test - ERROR - System resource critical! Memory: 105.64 MB
+2025-04-24 16:12:54,944 - grafana-lgtm-test - WARNING - Slow items API call: 0.4976 seconds
+2025-04-24 16:12:54,948 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:54] "GET /api/items HTTP/1.1" 200 -
+2025-04-24 16:12:55,064 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 16:12:55,889 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 16:12:56,061 - grafana-lgtm-test - WARNING - Slow items API call: 0.5483 seconds
+2025-04-24 16:12:56,064 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:56] "GET /api/items HTTP/1.1" 200 -
+2025-04-24 16:12:56,110 - grafana-lgtm-test - WARNING - High memory usage detected: 184.75 MB
+2025-04-24 16:12:56,899 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 100.01 MB
+2025-04-24 16:12:56,953 - grafana-lgtm-test - WARNING - Slow items API call: 0.3274 seconds
+2025-04-24 16:12:56,958 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:56] "GET /api/items HTTP/1.1" 200 -
+2025-04-24 16:12:58,055 - grafana-lgtm-test - WARNING - Slow items API call: 0.5373 seconds
+2025-04-24 16:12:58,059 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:58] "GET /api/items HTTP/1.1" 200 -
+2025-04-24 16:12:58,115 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 98.09 MB
+2025-04-24 16:12:58,903 - grafana-lgtm-test - ERROR - System resource critical! Memory: 155.10 MB
+2025-04-24 16:12:59,311 - grafana-lgtm-test - WARNING - Slow items API call: 0.6954 seconds
+2025-04-24 16:12:59,314 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:12:59] "GET /api/items HTTP/1.1" 200 -
+2025-04-24 16:13:00,068 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 16:13:00,121 - grafana-lgtm-test - WARNING - High memory usage detected: 51.64 MB
+2025-04-24 16:13:00,273 - grafana-lgtm-test - WARNING - Slow items API call: 0.4118 seconds
+2025-04-24 16:13:00,279 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:13:00] "GET /api/items HTTP/1.1" 200 -
+2025-04-24 16:13:00,895 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 16:13:00,908 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 110.41 MB
+2025-04-24 16:13:01,465 - grafana-lgtm-test - WARNING - Slow items API call: 0.6370 seconds
+2025-04-24 16:13:01,469 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:13:01] "GET /api/items HTTP/1.1" 200 -
+2025-04-24 16:13:02,126 - grafana-lgtm-test - WARNING - High memory usage detected: 103.56 MB
+2025-04-24 16:13:02,418 - grafana-lgtm-test - WARNING - Slow items API call: 0.3992 seconds
+2025-04-24 16:13:02,423 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:13:02] "GET /api/items HTTP/1.1" 200 -
+2025-04-24 16:13:02,913 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 182.37 MB
+2025-04-24 16:13:03,916 - grafana-lgtm-test - WARNING - Slow items API call: 0.9386 seconds
+2025-04-24 16:13:03,920 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:13:03] "GET /api/items HTTP/1.1" 200 -
+2025-04-24 16:13:04,128 - grafana-lgtm-test - ERROR - System resource critical! Memory: 64.10 MB
+2025-04-24 16:13:04,916 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 84.08 MB
+2025-04-24 16:13:04,970 - grafana-lgtm-test - WARNING - Slow items API call: 0.4776 seconds
+2025-04-24 16:13:04,974 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:13:04] "GET /api/items HTTP/1.1" 200 -
+2025-04-24 16:13:05,076 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 16:13:05,529 - grafana-lgtm-test - ERROR - Error endpoint accessed deliberately
+2025-04-24 16:13:05,529 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:13:05] "[35m[1mGET /api/error HTTP/1.1[0m" 500 -
+2025-04-24 16:13:05,903 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 16:13:06,078 - grafana-lgtm-test - ERROR - Error endpoint accessed deliberately
+2025-04-24 16:13:06,078 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:13:06] "[35m[1mGET /api/error HTTP/1.1[0m" 500 -
+2025-04-24 16:13:06,133 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 187.57 MB
+2025-04-24 16:13:06,638 - grafana-lgtm-test - ERROR - Error endpoint accessed deliberately
+2025-04-24 16:13:06,638 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:13:06] "[35m[1mGET /api/error HTTP/1.1[0m" 500 -
+2025-04-24 16:13:06,918 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 129.59 MB
+2025-04-24 16:13:07,192 - grafana-lgtm-test - ERROR - Error endpoint accessed deliberately
+2025-04-24 16:13:07,193 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:13:07] "[35m[1mGET /api/error HTTP/1.1[0m" 500 -
+2025-04-24 16:13:07,740 - grafana-lgtm-test - ERROR - Error endpoint accessed deliberately
+2025-04-24 16:13:07,740 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:13:07] "[35m[1mGET /api/error HTTP/1.1[0m" 500 -
+2025-04-24 16:13:08,135 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 87.18 MB
+2025-04-24 16:13:08,283 - grafana-lgtm-test - ERROR - Error endpoint accessed deliberately
+2025-04-24 16:13:08,283 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:13:08] "[35m[1mGET /api/error HTTP/1.1[0m" 500 -
+2025-04-24 16:13:08,825 - grafana-lgtm-test - ERROR - Error endpoint accessed deliberately
+2025-04-24 16:13:08,826 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:13:08] "[35m[1mGET /api/error HTTP/1.1[0m" 500 -
+2025-04-24 16:13:08,923 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 108.43 MB
+2025-04-24 16:13:09,379 - grafana-lgtm-test - ERROR - Error endpoint accessed deliberately
+2025-04-24 16:13:09,379 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:13:09] "[35m[1mGET /api/error HTTP/1.1[0m" 500 -
+2025-04-24 16:13:09,927 - grafana-lgtm-test - ERROR - Error endpoint accessed deliberately
+2025-04-24 16:13:09,927 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:13:09] "[35m[1mGET /api/error HTTP/1.1[0m" 500 -
+2025-04-24 16:13:10,087 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 16:13:10,140 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 82.86 MB
+2025-04-24 16:13:10,472 - grafana-lgtm-test - ERROR - Error endpoint accessed deliberately
+2025-04-24 16:13:10,473 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:13:10] "[35m[1mGET /api/error HTTP/1.1[0m" 500 -
+2025-04-24 16:13:10,908 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 16:13:10,924 - grafana-lgtm-test - WARNING - High memory usage detected: 66.59 MB
+2025-04-24 16:13:11,014 - grafana-lgtm-test - ERROR - Error endpoint accessed deliberately
+2025-04-24 16:13:11,014 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:13:11] "[35m[1mGET /api/error HTTP/1.1[0m" 500 -
+2025-04-24 16:13:11,580 - grafana-lgtm-test - ERROR - Error endpoint accessed deliberately
+2025-04-24 16:13:11,580 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:13:11] "[35m[1mGET /api/error HTTP/1.1[0m" 500 -
+2025-04-24 16:13:12,129 - grafana-lgtm-test - ERROR - Error endpoint accessed deliberately
+2025-04-24 16:13:12,130 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:13:12] "[35m[1mGET /api/error HTTP/1.1[0m" 500 -
+2025-04-24 16:13:12,146 - grafana-lgtm-test - ERROR - System resource critical! Memory: 67.38 MB
+2025-04-24 16:13:12,662 - grafana-lgtm-test - ERROR - Error endpoint accessed deliberately
+2025-04-24 16:13:12,662 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:13:12] "[35m[1mGET /api/error HTTP/1.1[0m" 500 -
+2025-04-24 16:13:12,930 - grafana-lgtm-test - WARNING - High memory usage detected: 136.04 MB
+2025-04-24 16:13:13,215 - grafana-lgtm-test - ERROR - Error endpoint accessed deliberately
+2025-04-24 16:13:13,216 - werkzeug - INFO - 127.0.0.1 - - [24/Apr/2025 16:13:13] "[35m[1mGET /api/error HTTP/1.1[0m" 500 -
+2025-04-24 16:13:14,151 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 116.98 MB
+2025-04-24 16:13:14,936 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 158.22 MB
+2025-04-24 16:13:15,094 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 16:13:15,915 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 16:13:16,154 - grafana-lgtm-test - WARNING - High memory usage detected: 65.72 MB
+2025-04-24 16:13:16,938 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 61.98 MB
+2025-04-24 16:13:18,160 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 143.42 MB
+2025-04-24 16:13:18,941 - grafana-lgtm-test - WARNING - High memory usage detected: 147.69 MB
+2025-04-24 16:13:20,099 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 16:13:20,165 - grafana-lgtm-test - ERROR - System resource critical! Memory: 193.97 MB
+2025-04-24 16:13:20,922 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 16:13:20,947 - grafana-lgtm-test - WARNING - High memory usage detected: 172.70 MB
+2025-04-24 16:13:22,168 - grafana-lgtm-test - ERROR - System resource critical! Memory: 124.82 MB
+2025-04-24 16:13:22,953 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 158.55 MB
+2025-04-24 16:13:24,173 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 125.58 MB
+2025-04-24 16:13:24,959 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 146.91 MB
+2025-04-24 16:13:25,105 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 16:13:25,932 - opentelemetry.exporter.otlp.proto.grpc.exporter - ERROR - Failed to export metrics, error code: StatusCode.UNIMPLEMENTED
+2025-04-24 16:13:26,178 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 80.07 MB
+2025-04-24 16:13:26,962 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 127.91 MB
+2025-04-24 16:13:28,184 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 91.04 MB
+2025-04-24 16:13:28,967 - grafana-lgtm-test - WARNING - High memory usage detected: 124.51 MB
+2025-04-24 16:13:30,115 - opentelemetry.exporter.otlp.proto.grpc.exporter - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting metrics, retrying in 1s.
+2025-04-24 16:13:30,190 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 162.79 MB
+2025-04-24 16:13:30,937 - opentelemetry.exporter.otlp.proto.grpc.exporter - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting metrics, retrying in 1s.
+2025-04-24 16:13:30,969 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 67.18 MB
+2025-04-24 16:13:31,120 - opentelemetry.exporter.otlp.proto.grpc.exporter - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting metrics, retrying in 2s.
+2025-04-24 16:13:31,946 - opentelemetry.exporter.otlp.proto.grpc.exporter - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting metrics, retrying in 2s.
+2025-04-24 16:13:32,195 - grafana-lgtm-test - WARNING - High memory usage detected: 51.68 MB
+2025-04-24 16:13:32,974 - grafana-lgtm-test - ERROR - System resource critical! Memory: 190.38 MB
+2025-04-24 16:13:33,127 - opentelemetry.exporter.otlp.proto.grpc.exporter - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting metrics, retrying in 4s.
+2025-04-24 16:13:33,951 - opentelemetry.exporter.otlp.proto.grpc.exporter - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting metrics, retrying in 4s.
+2025-04-24 16:13:34,196 - grafana-lgtm-test - WARNING - High memory usage detected: 165.25 MB
+2025-04-24 16:13:34,980 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 185.31 MB
+2025-04-24 16:13:36,202 - grafana-lgtm-test - WARNING - High memory usage detected: 199.37 MB
+2025-04-24 16:13:36,984 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 77.00 MB
+2025-04-24 16:13:37,130 - opentelemetry.exporter.otlp.proto.grpc.exporter - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting metrics, retrying in 8s.
+2025-04-24 16:13:37,954 - opentelemetry.exporter.otlp.proto.grpc.exporter - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting metrics, retrying in 8s.
+2025-04-24 16:13:38,207 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 194.30 MB
+2025-04-24 16:13:38,990 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 165.96 MB
+2025-04-24 16:13:40,210 - grafana-lgtm-test - WARNING - High memory usage detected: 79.53 MB
+2025-04-24 16:13:40,995 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 92.68 MB
+2025-04-24 16:13:42,216 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 184.50 MB
+2025-04-24 16:13:43,000 - grafana-lgtm-test - WARNING - High memory usage detected: 162.19 MB
+2025-04-24 16:13:44,217 - grafana-lgtm-test - WARNING - High memory usage detected: 50.86 MB
+2025-04-24 16:13:45,004 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 80.04 MB
+2025-04-24 16:13:45,135 - opentelemetry.exporter.otlp.proto.grpc.exporter - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting metrics, retrying in 16s.
+2025-04-24 16:13:45,957 - opentelemetry.exporter.otlp.proto.grpc.exporter - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting metrics, retrying in 16s.
+2025-04-24 16:13:46,222 - grafana-lgtm-test - WARNING - High memory usage detected: 152.18 MB
+2025-04-24 16:13:47,010 - grafana-lgtm-test - ERROR - System resource critical! Memory: 198.73 MB
+2025-04-24 16:13:48,226 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 132.32 MB
+2025-04-24 16:13:49,011 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 124.24 MB
+2025-04-24 16:13:50,231 - grafana-lgtm-test - WARNING - High memory usage detected: 198.73 MB
+2025-04-24 16:13:51,018 - grafana-lgtm-test - ERROR - System resource critical! Memory: 113.83 MB
+2025-04-24 16:13:52,236 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 79.98 MB
+2025-04-24 16:13:53,023 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 181.70 MB
+2025-04-24 16:13:54,241 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 67.35 MB
+2025-04-24 16:13:55,024 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 138.91 MB
+2025-04-24 16:13:56,244 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 163.50 MB
+2025-04-24 16:13:57,029 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 68.74 MB
+2025-04-24 16:13:58,249 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 166.73 MB
+2025-04-24 16:13:59,031 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 198.26 MB
+2025-04-24 16:14:00,254 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 79.28 MB
+2025-04-24 16:14:01,037 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 83.12 MB
+2025-04-24 16:14:01,143 - opentelemetry.exporter.otlp.proto.grpc.exporter - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting metrics, retrying in 32s.
+2025-04-24 16:14:01,963 - opentelemetry.exporter.otlp.proto.grpc.exporter - WARNING - Transient error StatusCode.UNAVAILABLE encountered while exporting metrics, retrying in 32s.
+2025-04-24 16:14:02,260 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 164.65 MB
+2025-04-24 16:14:03,042 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 190.91 MB
+2025-04-24 16:14:04,264 - grafana-lgtm-test - ERROR - System resource critical! Memory: 103.10 MB
+2025-04-24 16:14:05,048 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 141.75 MB
+2025-04-24 16:14:06,270 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 125.35 MB
+2025-04-24 16:14:07,054 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 171.95 MB
+2025-04-24 16:14:08,275 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 195.87 MB
+2025-04-24 16:14:09,059 - grafana-lgtm-test - ERROR - System resource critical! Memory: 100.47 MB
+2025-04-24 16:14:10,281 - grafana-lgtm-test - ERROR - System resource critical! Memory: 105.11 MB
+2025-04-24 16:14:11,061 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 66.99 MB
+2025-04-24 16:14:12,284 - grafana-lgtm-test - WARNING - High memory usage detected: 121.48 MB
+2025-04-24 16:14:13,067 - grafana-lgtm-test - WARNING - High memory usage detected: 163.09 MB
+2025-04-24 16:14:14,288 - grafana-lgtm-test - WARNING - High memory usage detected: 186.26 MB
+2025-04-24 16:14:15,072 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 129.41 MB
+2025-04-24 16:14:16,294 - grafana-lgtm-test - ERROR - System resource critical! Memory: 144.74 MB
+2025-04-24 16:14:17,076 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 182.66 MB
+2025-04-24 16:14:18,299 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 176.11 MB
+2025-04-24 16:14:19,078 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 111.54 MB
+2025-04-24 16:14:20,304 - grafana-lgtm-test - WARNING - High memory usage detected: 112.07 MB
+2025-04-24 16:14:21,081 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 108.55 MB
+2025-04-24 16:14:22,310 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 174.33 MB
+2025-04-24 16:14:23,086 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 184.62 MB
+2025-04-24 16:14:24,311 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 127.12 MB
+2025-04-24 16:14:25,092 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 151.63 MB
+2025-04-24 16:14:26,314 - grafana-lgtm-test - WARNING - High memory usage detected: 110.85 MB
+2025-04-24 16:14:27,097 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 70.27 MB
+2025-04-24 16:14:28,319 - grafana-lgtm-test - INFO - System running normally. Current memory usage: 158.19 MB
